@@ -1,0 +1,8 @@
+opencv-python
+numpy==1.16.5
+tensorflow==1.15
+pillow
+keras==2.3.1
+plotly
+h5py==2.10.0
+django
